@@ -1,1 +1,3 @@
-creating vscode landing pages using html and css only
+# VSCode landing page
+
+Making VSCode landing page using HTML and CSS only.
